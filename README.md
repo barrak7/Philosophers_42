@@ -1,2 +1,2 @@
 # Philosophers_42
-42 dining philosophers project.
+42's dining philosophers project.
